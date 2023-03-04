@@ -4,7 +4,7 @@
 👨🏻‍💻 I’m currently learning more about Machine Learning, Deep Learning, Natural Language Processing.  
  👥 I’m looking to collaborate on my research .  
 💬 Ask me about any tech-related stuff.  
- 📫 How to reach me: Email - [delwar.hosen@northsouth.edu](mailto:delwar.hosen@northsouth.edu) | [delwar.hosen95@gmail.com](mailto:delwar.hosen95@gmail.com)   
+ 📫 How to reach me: Email - [delwar.nsu.bd@gmail.com](mailto:delwar.nsu.bd@gmail.com) | [delwar.hosen95@gmail.com](mailto:delwar.hosen95@gmail.com)   
 😄 Pronouns: He/His/Him   
 ⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/)  
 
