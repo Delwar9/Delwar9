@@ -5,7 +5,7 @@
  👥 I’m looking to collaborate on my research .  
 💬 Ask me about any tech-related stuff.  
  📫 How to reach me: Email - [delwar.nsu.bd@gmail.com](mailto:delwar.nsu.bd@gmail.com) | [delwar.hosen95@gmail.com](mailto:delwar.hosen95@gmail.com)   
-⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/)  
+⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/delwar9/)  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dhosen99/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/delwar9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delwar9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@delwarhosen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Delwar-Hosen-6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6301526) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Delwar911)
