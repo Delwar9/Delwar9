@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫About Me :
-🔭 I’m currently working as a Software Engineer at [TechnoNext Ltd.](https://technonext.com/).   
+🔭 I’m a student, beside i am working as a Software Engineer at [TechnoNext Ltd.](https://technonext.com/).   
 👨🏻‍💻 I’m currently learning more about Machine Learning, Deep Learning, Natural Language Processing.  
  👥 I’m looking to collaborate on my research .  
 💬 Ask me about any tech-related stuff.  
