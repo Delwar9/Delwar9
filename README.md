@@ -1,8 +1,8 @@
 ### Hi there 👋
 # 💫About Me :
-🔭 I’m a student, beside i am working as a Software Engineer at [TechnoNext Ltd.](https://technonext.com/).   
-👨🏻‍💻 I’m currently learning more about Machine Learning, Deep Learning, Natural Language Processing.  
- 👥 I’m looking to collaborate on my research .  
+🔭 I am working as a Software Engineer at [TechnoNext Ltd.](https://technonext.com/).   
+👨🏻‍💻 I’m currently learning more about Software Engineering, Privacy and Security, Machine Learning, Deep Learning, and Natural Language Processing.  
+ 👥 I’m looking to collaborate on my research.
 💬 Ask me about any tech-related stuff.  
  📫 How to reach me: Email - [delwar.nsu.bd@gmail.com](mailto:delwar.nsu.bd@gmail.com) | [delwar.hosen95@gmail.com](mailto:delwar.hosen95@gmail.com)   
 ⚡ Fun fact: I take rest by solving programming problems at [Leetcode](https://leetcode.com/delwar9/)  
