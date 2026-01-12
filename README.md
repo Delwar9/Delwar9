@@ -14,16 +14,17 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Delwar9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Delwar9&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Delwar9&theme=tokyonight" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Delwar9&theme=tokyonight" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Delwar9&theme=tokyonight" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Delwar9&theme=tokyonight&utcOffset=6" alt="Commits by Time" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Delwar9&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Delwar9&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
@@ -38,5 +39,3 @@
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/delwar9)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
