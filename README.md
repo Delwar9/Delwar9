@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Delwar9&icon=0&color=5" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Delwar9&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ## 💰 You can help me by Donating
